@@ -69,7 +69,7 @@ async def analyze_project(scenario):
 You need **Node.js 18+**, **Python 3.10+**, and a [Gemini API key](https://aistudio.google.com/apikey).
 
 ```bash
-cd specflow-ai
+cd ReqWise
 ```
 
 ## 7. Environment variables
